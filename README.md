@@ -1,4 +1,4 @@
-<h1 align="center">Vue Baremetrics Calendar</h1>
+<h1 align="center">ProxyPulse - Parsing/Checker 🔥</h1>
 
 <p align="center">
 
