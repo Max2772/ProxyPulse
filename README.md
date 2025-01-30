@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/made%20by-TishkaPon-blue.svg" >
 
-<img src="https://img.shields.io/python/3.12.8">
+<img src="https://img.shields.io/python/p/3.12.8">
 
 <img src="https://img.shields.io/badge/vue-2.6.10-green.svg">
 
