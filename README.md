@@ -35,3 +35,12 @@ working_proxies = asyncio.run(checker.CheckProxies(proxies, logging=True))
 print("find " + str(len(working_proxies)) + " working proxy !")
 ```
 
+# Attribute
+# Class Finder():
+```
+ass - list
+```
+# Class Checker():
+```
+ass - list
+```
