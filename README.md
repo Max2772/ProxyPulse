@@ -18,8 +18,6 @@
 `pip install -r requirements.txt`
 
 # Base code
-Global Registeration via Vue.use() method.
-
 ```python
 from FinderProxy import FreeProxy
 from CheckProxy import CheckerProxy
