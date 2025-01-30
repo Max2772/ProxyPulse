@@ -35,16 +35,11 @@ working_proxies = asyncio.run(checker.CheckProxies(proxies, logging=True))
 print("find " + str(len(working_proxies)) + " working proxy !")
 ```
 
-# Class Finder():
+# Attribute:
 
-- **elementName** _\*required_ `[string]`
+- **FreeProxy()** _\*required_ `[string]`
   - DOM object of the calendar div you're working on
 - **earliest_date** `[date YYYY-MM-DD]`
   - The earliest date to show in the calendar
-- **latest_date** `[date YYYY-MM-DD]`
-  - The latest date to show in the calendar
-- **format** `[object]`
-  - Object containing formatting strings for.. you guessed it.. formatting your dates
-  - 
-# Class Checker():
+
 
