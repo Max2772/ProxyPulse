@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
+<img src="https://img.shields.io/badge/made%20by-TishkaPon-blue.svg" >
 
 <img src="https://img.shields.io/npm/v/vue2-baremetrics-calendar">
 
