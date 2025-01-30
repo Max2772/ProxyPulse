@@ -37,9 +37,13 @@ print("find " + str(len(working_proxies)) + " working proxy !")
 
 # Attribute:
 
-- **FreeProxy()** _\*required_ `[string]`
-  - DOM object of the calendar div you're working on
-- **earliest_date** `[date YYYY-MM-DD]`
+- **FreeProxy().get_proxy()**
+  - country (str or list): Specify the necessary countries for the proxy.
+  - protocol (str or list: Specify the necessary protocols for the proxy.
+  - anonymity (True or False): Specify whether anonymous proxies are needed or not.
+  - port (str or list): Specify the necessary ports for the proxy.
+  - logging (True or False): Specify whether logging is necessary or not.
+- **earliest_date**
   - The earliest date to show in the calendar
 
 
