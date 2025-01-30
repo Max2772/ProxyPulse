@@ -53,5 +53,5 @@ print("find " + str(len(working_proxies)) + " working proxy !")
 
 
 <br/>
-<h1 align="center">Thanks for watching, we are waiting for your ideas in issues 😉</h1>
+<h3 align="center">Thanks for watching, we are waiting for your ideas in issues 😉</h3>
 
