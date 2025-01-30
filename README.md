@@ -19,8 +19,8 @@
 
 # Base code
 ```python
-from FinderProxy import FreeProxy
-from CheckProxy import CheckerProxy
+from ProxyPulse.FinderProxy import FreeProxy
+from ProxyPulse.CheckProxy import CheckerProxy
 import asyncio
 
 # Find
