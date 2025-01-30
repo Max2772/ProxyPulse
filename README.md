@@ -1,5 +1,5 @@
 <h1 align="center">ProxyPulse - Parsing/Checker 🔥</h1>
-<p align="center">
+
 <img src="https://img.shields.io/badge/made%20by-TishkaPon-blue.svg" >
 <img src="https://img.shields.io/badge/python-3.12.8-green.svg">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
@@ -50,4 +50,6 @@ print("find " + str(len(working_proxies)) + " working proxy !")
   - anonymity `(True or False)` : Specify whether anonymous proxies are needed or not.
   - logging `(True or False)` : Specify whether logging is necessary or not.
 
+
+<h1 align="center">Thanks for watching, we are waiting for your ideas in issues 😉</h1>
 
