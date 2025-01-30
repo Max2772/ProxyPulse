@@ -38,7 +38,7 @@ print("find " + str(len(working_proxies)) + " working proxy !")
 # Attribute:
 
 - **FreeProxy().get_proxy()**
-  - country (str or list): Specify the necessary countries for the proxy.
+  - country `(str or list)`: Specify the necessary countries for the proxy.
   - protocol (str or list: Specify the necessary protocols for the proxy.
   - anonymity (True or False): Specify whether anonymous proxies are needed or not.
   - port (str or list): Specify the necessary ports for the proxy.
