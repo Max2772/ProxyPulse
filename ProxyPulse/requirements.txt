@@ -1,0 +1,7 @@
+aiohttp==3.11.11
+aiohttp_socks==0.10.1
+beautifulsoup4==4.12.3
+fake_useragent==2.0.3
+numpy==2.2.2
+Requests==2.32.3
+tqdm==4.67.1
