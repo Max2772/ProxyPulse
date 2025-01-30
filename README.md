@@ -14,3 +14,5 @@
 # Installation
 `pip install -U git+https://github.com/TishkaPon/ProxyPulse.git`
 
+# Requirements
+`pip install -r requirements.txt`
