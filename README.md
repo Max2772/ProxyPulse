@@ -44,7 +44,7 @@ print("find " + str(len(working_proxies)) + " working proxy !")
   - port `(str or list)` : Specify the necessary ports for the proxy.
   - logging `(True or False)` : Specify whether logging is necessary or not.
     
-- **earliest_date**
+- **CheckerProxy().CheckProxies()**
   - proxies `(list)` : Specify the list with your proxies (Required attribute)
   - timeout `(int)` : Specify the timeout for the proxy
   - anonymity `(True or False)` : Specify whether anonymous proxies are needed or not.
