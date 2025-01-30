@@ -52,5 +52,6 @@ print("find " + str(len(working_proxies)) + " working proxy !")
   - logging `(True or False)` : Specify whether logging is necessary or not.
 
 
+<br/>
 <h1 align="center">Thanks for watching, we are waiting for your ideas in issues 😉</h1>
 
