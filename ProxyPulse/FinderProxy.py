@@ -32,7 +32,7 @@ class FreeProxy:
 
         self.saved = proxies
 
-        return np.hstack(proxies)
+        return list(set(np.hstack(proxies)))
 
 
 
