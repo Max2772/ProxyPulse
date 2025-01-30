@@ -7,6 +7,5 @@
 </p>
 
 # Installation
-
-`npm i --save vue2-baremetrics-calendar`
+`pip install -U git+https://github.com/TishkaPon/ProxyPulse.git`
 
