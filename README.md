@@ -18,7 +18,7 @@
 `pip install -r requirements.txt`
 
 # Base code
-`from FinderProxy import FreeProxy
+```from FinderProxy import FreeProxy
 from CheckProxy import CheckerProxy
 import asyncio
 
@@ -32,4 +32,4 @@ print("find " + str(len(proxies)) + " proxy !")
 checker = CheckerProxy()
 working_proxies = asyncio.run(checker.CheckProxies(proxies, logging=True))
 
-print("find " + str(len(working_proxies)) + " working proxy !")`
+print("find " + str(len(working_proxies)) + " working proxy !")```
