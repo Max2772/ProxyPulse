@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "aiohttp",
+    "aiohttp==3.9.5",
     "aiohttp_socks==0.10.1",
     "beautifulsoup4==4.12.3",
     "fake_useragent==2.0.3",
