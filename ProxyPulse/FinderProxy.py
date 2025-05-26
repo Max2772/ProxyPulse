@@ -1,6 +1,6 @@
-from service.hidexh import Hidexh
-from service.github_proxifly import Proxifly
-from service.proxyfreeonly import Proxyfreeonly
+from ProxyPulse.service.hidexh import Hidexh
+from ProxyPulse.service.github_proxifly import Proxifly
+from ProxyPulse.service.proxyfreeonly import Proxyfreeonly
 import numpy as np
 from tqdm.asyncio import tqdm
 import asyncio
