@@ -1,5 +1,5 @@
 [project]
-name = "proxy-pulse"
+name = "ProxyPulse"
 version = "0.1.0"
 description = "Free proxy finder"
 authors = [{name = "TishkaPon", email = "bib.maxim@gmail.com"}]
